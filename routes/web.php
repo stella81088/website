@@ -14,5 +14,11 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('resume');
+});
+
+Route::post('/','App\Http\Controllers\Controller@sendEmail');
+
+Route::get('/soccerpics', function () {
+    return view('soccerpic');
 });
