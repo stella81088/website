@@ -172,7 +172,7 @@
             <img src="assets/img/portfolio/soccer6.jpg" style="width:100%" onclick="openModal();currentSlide(7)" class="hover-shadow cursor">
         </div>
         <div class="column">
-            <img src="assets/img/portfolio/teampic.jpg" style="width:100%" onclick="openModal();currentSlide(8)" class="hover-shadow cursor">
+            <img src="assets/img/portfolio/teampic.JPG" style="width:100%" onclick="openModal();currentSlide(8)" class="hover-shadow cursor">
         </div>
     </div>
 
