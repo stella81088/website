@@ -194,7 +194,7 @@
 
             <div class="mySlides">
                 <div class="numbertext">3 / 8</div>
-                <img src="assets/img/portfolio/soccer1.jpg" style="width:100%">
+                <img src="assets/img/portfolio/soccer1.JPG" style="width:100%">
             </div>
 
             <div class="mySlides">
@@ -219,7 +219,7 @@
 
             <div class="mySlides">
                 <div class="numbertext">8 / 8</div>
-                <img src="assets/img/portfolio/teampic.jpg" style="width:100%">
+                <img src="assets/img/portfolio/teampic.JPG" style="width:100%">
             </div>
 
             <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
@@ -238,7 +238,7 @@
 
             </div>
             <div class="column">
-                <img class="demo cursor" src="assets/img/portfolio/soccer1.jpg" style="width:100%" onclick="currentSlide(3)" alt="vs Grambling">
+                <img class="demo cursor" src="assets/img/portfolio/soccer1.JPG" style="width:100%" onclick="currentSlide(3)" alt="vs Grambling">
             </div>
             <div class="column">
                 <img class="demo cursor" src="assets/img/portfolio/soccer7.jpg" style="width:100%" onclick="currentSlide(4)" alt="Fan Day">
@@ -253,7 +253,7 @@
                 <img class="demo cursor" src="assets/img/portfolio/soccer6.jpg" style="width:100%" onclick="currentSlide(7)" alt="Cool travel bus with beds">
             </div>
             <div class="column">
-                <img class="demo cursor" src="assets/img/portfolio/teampic.jpg" style="width:100%" onclick="currentSlide(8)" alt="Team Pic">
+                <img class="demo cursor" src="assets/img/portfolio/teampic.JPG" style="width:100%" onclick="currentSlide(8)" alt="Team Pic">
             </div>
         </div>
     </div>
