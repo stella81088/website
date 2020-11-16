@@ -157,7 +157,7 @@
             </video>
         </div>
         <div class="column">
-            <img src="assets/img/portfolio/soccer1.jpg" style="width:100%" onclick="openModal();currentSlide(3)" class="hover-shadow cursor">
+            <img src="assets/img/portfolio/soccer1.JPG" style="width:100%" onclick="openModal();currentSlide(3)" class="hover-shadow cursor">
         </div>
         <div class="column">
             <img src="assets/img/portfolio/soccer7.jpg" style="width:100%" onclick="openModal();currentSlide(4)" class="hover-shadow cursor">
