@@ -179,7 +179,7 @@
                 <a href="https://github.com/stella81088" class="github"><i class="bx bxl-github"></i></a>
                 <a href="https://www.youtube.com/channel/UCSXUn80Z5q94rH5GqmoLhDQ/featured?view_as=subscriber" class="youtube"><i class="bx bxl-youtube"></i></a>
                 <a href="https://www.linkedin.com/in/stella-li-744613141/" class="linkedin"><i class="bx bxl-linkedin"></i></a>
-                <a href="assets/img/Stella_Resume.pdf" download="Stella_Li_Resume"><i class="bx bxs-download"></i></a>
+                <a href="assets/img/Stella_Li_Resume.pdf" download="Stella_Li_Resume"><i class="bx bxs-download"></i></a>
             </div>
         </div>
     </section><!-- End Hero -->
@@ -247,7 +247,7 @@
                                 <span class="show"> &gt; Stella.Interests</span><br>
                                 <span class="show">&nbsp;&nbsp;=&gt; [ "Software Development", "Artificial Intelligence", "Space", "Sports", "Music" ]<br><br></span>
                                 <span class="show"> &gt; Stella.Resume->download();</span><br>
-                                <span class="show">&nbsp;&nbsp;=&gt; <a href="assets/img/Stella_Resume.pdf" download="Stella_Li_Resume"> Stella_Li_Resume</a> <br></span>
+                                <span class="show">&nbsp;&nbsp;=&gt; <a href="assets/img/Stella_Li_Resume.pdf" download="Stella_Li_Resume"> Stella_Li_Resume</a> <br></span>
                             </div>
 
                         </div>
@@ -778,7 +778,7 @@
                 <a href="https://github.com/stella81088" class="github"><i class="bx bxl-github"></i></a>
                 <a href="https://www.youtube.com/channel/UCSXUn80Z5q94rH5GqmoLhDQ/featured?view_as=subscriber" class="youtube"><i class="bx bxl-youtube"></i></a>
                 <a href="https://www.linkedin.com/in/stella-li-744613141/" class="linkedin"><i class="bx bxl-linkedin"></i></a>
-                <a href="assets/img/Stella_Resume.pdf" download="Stella_Li_Resume"><i class="bx bxs-download"></i></a>
+                <a href="assets/img/Stella_Li_Resume.pdf" download="Stella_Li_Resume"><i class="bx bxs-download"></i></a>
             </div>
             <div class="copyright">
                 &copy; Copyright <strong>MyResume</strong> .All Rights Reserved
