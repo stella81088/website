@@ -340,7 +340,7 @@
                             <br><br>
                             <h5 class="center">Laravel&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;XAMPP&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;Apache
                                 &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;Node.js&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;macOS&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;Linux&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;Microsoft
-                                &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;JSON&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;Docker&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;MVC&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;REST
+                                &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;JSON&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;Docker&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;MVC&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;REST•&nbsp;&nbsp;&nbsp;Selenium
                             </h5>
                         </section>
                         <section class="skills_tab" id="content3">
@@ -359,7 +359,7 @@
                             <br><br>
                             <h5 class="center">
                                 gRPC&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;Figma&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;Git&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;GPIO&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;AJAX&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;Raspberry Pi
-                                &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;Mandarin&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;Microsoft Office Suite
+                                &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;Mandarin&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;Microsoft Office Suite•&nbsp;&nbsp;&nbsp;Maven
                             </h5>
                         </section>
                     </div>
@@ -772,8 +772,8 @@
         <div class="container">
             <h3>Stella Li</h3>
             <p>There is always a reason to smile and to be thankful! - This site was made with Laravel :)</p>
-    
- 
+
+
             <div class="social-links">
                 <a href="https://github.com/stella81088" class="github"><i class="bx bxl-github"></i></a>
                 <a href="https://www.youtube.com/channel/UCSXUn80Z5q94rH5GqmoLhDQ/featured?view_as=subscriber" class="youtube"><i class="bx bxl-youtube"></i></a>
