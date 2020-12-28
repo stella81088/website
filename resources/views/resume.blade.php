@@ -339,7 +339,7 @@
                         <section class="skills_tab" id="content2">
                             <br><br>
                             <h5 class="center">Laravel&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;XAMPP&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;Apache
-                                &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;Node.js&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;macOS&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;Linux&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;Microsoft
+                                &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;Node.js&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;macOS&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;Microsoft
                                 &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;JSON&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;Docker&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;MVC&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;REST&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;Selenium
                             </h5>
                         </section>
@@ -459,7 +459,8 @@
                                 </div>
                                 <div class="timelineinfoend">
                                     • &nbsp;&nbsp;Developed web application for client in Germany<br>
-                                    • &nbsp;&nbsp;Used Laravel Framework, mySQL, PHP, HTML, CSS
+                                    • &nbsp;&nbsp;Used Laravel Framework, mySQL, PHP, HTML, CSS <br>
+                                    • &nbsp;&nbsp;Created a Java application with Maven and <br> &nbsp;&nbsp;&nbsp;&nbsp;Selenium
                                 </div>
                             </div>
                             <div class="point"></div>
@@ -533,7 +534,18 @@
                 </div>
 
                 <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
-
+                    <div class="col-md-6 portfolio-item filter-app">
+                        <div class="portfolio-wrap">
+                            <img src="assets/img/memory-app.png" class="img-fluid" alt="">
+                            <div class="portfolio-info">
+                                <h4>Memories App</h4>
+                                <p>Created with the MERN stack. Can do CRUD actions <br>and process images</p>
+                                <div class="portfolio-links">
+                                    <a href="https://stella-memories.netlify.app/" data-gall="portfolioDetailsGallery" title="memories-app" target="_blank"><i class="bx bx-link"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                     <div class="col-md-6 portfolio-item filter-app">
                         <div class="portfolio-wrap">
                             <img src="assets/img/portfolio/channel.png" class="img-fluid" alt="">
@@ -541,7 +553,7 @@
                                 <h4>YouTube Content Creator</h4>
                                 <p>Create videos introducing today’s technology and programming tutorials</p>
                                 <div class="portfolio-links">
-                                    <a href="https://www.youtube.com/channel/UCSXUn80Z5q94rH5GqmoLhDQ?view_as=subscriber" data-gall="portfolioDetailsGallery" title="Youtube Channel"><i class="bx bx-link"></i></a>
+                                    <a href="https://www.youtube.com/channel/UCSXUn80Z5q94rH5GqmoLhDQ?view_as=subscriber" data-gall="portfolioDetailsGallery" title="Youtube Channel" target="_blank"><i class="bx bx-link"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -555,7 +567,7 @@
                                 <p>The goal was to help people pick a place to eat based on their food preferences</p>
                                 <div class="portfolio-links">
                                     <a href="assets/img/portfolio/lunchpadeg.png" data-gall="portfolioGallery" class="venobox" title="User's Home Page"><i class="bx bx-plus"></i></a>
-                                    <a href="Https://www.lunchpad.app" data-gall="portfolioDetailsGallery" title="lunchpad.app"><i class="bx bx-link"></i></a>
+                                    <a href="Https://www.lunchpad.app" data-gall="portfolioDetailsGallery" title="lunchpad.app" target="_blank"><i class="bx bx-link"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -612,7 +624,8 @@
                                     <iframe src="/soccerpics" name="iframe_a" height="300px" width="100%" title="Iframe Example"></iframe>
                                     <!-- <a href="/soccerpics" target="iframe_a"><i class="bx bx-link"></i></a> -->
                                     <!-- <a href="/soccerpics" data-gall="portfolioDetailsGallery" data-vbtype="iframe" class="venobox" title="Louisiana Tech Soccer Pictures"><i class="bx bx-plus"></i></a> -->
-                                    <a href="https://latechsports.com/sports/womens-soccer/roster/stella-li/3774" data-gall="portfolioDetailsGallery" data-vbtype="iframe" class="venobox" title="Louisiana Tech Soccer Roster"><i class="bx bx-link"></i></a>
+                                    <a href="https://latechsports.com/sports/womens-soccer/roster/stella-li/3774" data-gall="portfolioDetailsGallery" title="lunchpad.app" target="_blank"><i class="bx bx-link"></i></a>
+                                    
                                 </div>
                             </div>
                         </div>
@@ -704,7 +717,7 @@
                             <div class="phone">
                                 <i class="icofont-envelope"></i>
                                 <h4>Email:</h4>
-                                <p>stella.xingli18@gmail.com</p>
+                                <p>sli@jlisbz.com</p>
                             </div>
 
                         </div>
